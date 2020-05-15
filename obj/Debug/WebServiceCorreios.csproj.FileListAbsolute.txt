@@ -1,0 +1,7 @@
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\bin\Debug\WebServiceCorreios.exe.config
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\bin\Debug\WebServiceCorreios.exe
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\bin\Debug\WebServiceCorreios.pdb
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\obj\Debug\WebServiceCorreios.csprojAssemblyReference.cache
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\obj\Debug\WebServiceCorreios.csproj.CoreCompileInputs.cache
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\obj\Debug\WebServiceCorreios.exe
+C:\projetos\VISUALSTUDIO\RENATO\WebServiceCorreios\obj\Debug\WebServiceCorreios.pdb
